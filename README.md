@@ -40,8 +40,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-
-            new cayetanosoriano\HashidsBundle\cayetanosorianoHashidsBundle(),
+        new cayetanosoriano\HashidsBundle\cayetanosorianoHashidsBundle(),
     );
 }
 ```
