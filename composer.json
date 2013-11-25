@@ -7,7 +7,7 @@
     "license": "MIT",
     "require": {
         "hashids/hashids": "0.3.*@dev",
-        "symfony/framework-bundle": "v2.x"
+        "symfony/framework-bundle": "v2.*"
     },
     "authors": [
         {
