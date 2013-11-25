@@ -57,5 +57,5 @@ cayetanosoriano_hashids:
 
 ### Then use the service
 ```
-$kcy = $this->get('hashids');
+$hashids = $this->get('hashids');
 ```
